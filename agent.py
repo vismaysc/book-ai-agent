@@ -103,6 +103,7 @@ def send_daily_lesson():
             message = f.read()
 
         # Send to Telegram
+        message = message.replace("<br>", "\n").replace("<br/>", "\n").replace("<br />", "\n")
         # Split message into chunks of 4000 characters to avoid Telegram's limit
         MAX_LENGTH = 4000
         parts = [message[i:i+MAX_LENGTH] for i in range(0, len(message), MAX_LENGTH)]
