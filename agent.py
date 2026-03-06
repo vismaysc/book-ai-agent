@@ -5,9 +5,9 @@ from google import genai
 
 # ================= CONFIGURATION (GITHUB SECRETS) =================
 # We now pull these from GitHub's environment for security
-GEMINI_KEY = os.environ.get("AIzaSyAgBMjc23uRONuPZBmFn6zuEs6QofWfxKE")
-TELEGRAM_TOKEN = os.environ.get("8274999038:AAEI9bUk58nF2Fl7KGTaVmLTidCYXTqcnn8")
-CHAT_ID = os.environ.get("1250689467")
+GEMINI_KEY = os.environ.get("GEMINI_KEY")
+TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
+CHAT_ID = os.environ.get("CHAT_ID")
 PDF_FILENAME = "book_chapter.pdf" 
 # =================================================================
 
