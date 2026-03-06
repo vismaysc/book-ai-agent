@@ -1,6 +1,5 @@
 import os
 import requests
-import time
 from google import genai
 
 # ================= CONFIGURATION (GITHUB SECRETS) =================
