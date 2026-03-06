@@ -125,7 +125,7 @@ def send_daily_lesson():
 
 if __name__ == "__main__":
     # IF RUNNING FOR THE FIRST TIME: Uncomment the line below to process your PDF
-    prepare_curriculum()
+    # prepare_curriculum()
 
     # FOR DAILY AUTOMATION: This is the function the scheduler will call
     send_daily_lesson()
