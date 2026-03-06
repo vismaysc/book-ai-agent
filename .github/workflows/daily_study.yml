@@ -3,7 +3,7 @@ name: Daily Book Study
 on:
   schedule:
     # 02:30 UTC is 08:00 AM IST
-    - cron: '30 2 * * *'
+    - cron: '30 5 * * *'
   workflow_dispatch: # Allows you to run it manually for testing
 
 jobs:
