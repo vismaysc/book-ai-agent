@@ -1,0 +1,19 @@
+<b>🧠 Concept:</b> <b>Cognitive Conflict and the Persistence of Illusions</b>
+
+
+<b>📍 The Core:</b> Our automatic System 1 can generate responses that conflict with our conscious intentions or factual knowledge, requiring System 2 to exert effortful self-control to override these powerful intuitions, though the automatic impression may persist.
+
+
+<b>🧪 The Case:</b> The chapter presents two compelling cases. First, a <i>classic experiment variant (Figure 2)</i> involves quickly identifying if words are uppercase/lowercase or left/right-aligned. The difficulty arises when the word itself (e.g., "UPPER" in lowercase) conflicts with the task, demonstrating System 1's automatic reading interfering with System 2's deliberate instructions. This conflict slows you down and requires effortful override. Second, the <i>Müller-Lyer illusion (Figure 3)</i> shows two horizontal lines that appear to be different lengths due to appended fins, even after you measure them and know they are identical. Your System 2 knows the truth, but your System 1 continues to "see" the illusion, proving that impressions can persist even when beliefs change. This concept extends to <i>cognitive illusions</i>, such as the clinical wisdom warning against taking on a "charming psychopath" patient, whose compelling story evokes immediate sympathy (System 1) despite a rational understanding of the danger (System 2).
+
+
+<b>⚠️ Why it trips you up:</b> System 1's automatic responses, whether interfering with a task or creating persistent visual/cognitive illusions, are often involuntary and difficult to turn off. System 2 is responsible for self-control and overriding these impulses (like resisting the urge to stare or not telling someone "to go to hell"). However, continuous vigilance against System 1's biases is impractical and effortful. We are "blind to the obvious" and often "blind to our blindness," making it hard to detect errors without specific cues or heightened effort from System 2.
+
+
+<b>🏢 Real-World Example:</b> Despite knowing that fast food is unhealthy, the automatic craving (System 1) can be very strong, requiring conscious effort and willpower (System 2) to choose a healthier option.
+
+
+<b>🛠 The Antidote:</b> "Am I experiencing a strong gut feeling or impression that might be an illusion or bias, and what factual evidence or logical analysis can System 2 bring to bear?"
+
+
+<b>🤳 Your Turn:</b> Describe a time when you knew something to be true but your gut feeling or initial perception strongly contradicted it. How did you reconcile the two?
