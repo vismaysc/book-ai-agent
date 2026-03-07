@@ -1,0 +1,39 @@
+<b>🧠 Concept:</b> Attention Blindness and System Interaction (The Invisible Gorilla & Conflict)
+
+<br>
+<br>
+
+<b>📍 The Core:</b> Intense focus on one task can render us "blind" to otherwise obvious stimuli, highlighting the dynamic and sometimes conflicting interaction between automatic System 1 and effortful System 2.
+
+<br>
+<br>
+
+<b>🧪 The Case:</b>
+*   <b>The Invisible Gorilla Experiment:</b> Christopher Chabris and Daniel Simons demonstrated <i>attention blindness</i> with a short film. Viewers were instructed to count basketball passes made by a white-shirted team, ignoring a black-shirted team. Halfway through the video, <i>a woman wearing a gorilla suit appears, crosses the court, thumps her chest, and moves on. The gorilla is in view for 9 seconds. Many thousands of people have seen the video, and about half of them do not notice anything unusual. It is the counting task—and especially the instruction to ignore one of the teams—that causes the blindness. No one who watches the video without that task would miss the gorilla.</i> This illustrates that <i>we can be blind to the obvious, and we are also blind to our blindness.</i> Seeing and orienting (automatic System 1 functions) depend on the allocation of some attention.
+
+*   <b>System Interaction (Plot Synopsis):</b> Systems 1 and 2 are both active whenever we are awake. System 1 runs automatically, continuously generating suggestions for System 2: impressions, intuitions, intentions, and feelings. If endorsed by System 2, these turn into beliefs and voluntary actions. When all goes smoothly, System 2 adopts System 1's suggestions with little modification. <i>When System 1 runs into difficulty, it calls on System 2 to support more detailed and specific processing that may solve the problem of the moment. System 2 is mobilized when a question arises for which System 1 does not offer an answer, as probably happened to you when you encountered the multiplication problem 17 × 24. You can also feel a surge of conscious attention whenever you are surprised. System 2 is activated when an event is detected that violates the model of the world that System 1 maintains.</i> System 2 is also credited with the continuous monitoring of your own behavior (e.g., keeping you polite when angry, alert when driving at night) and is mobilized to increased effort when it detects an error about to be made. In summary, most of what "you" (your System 2) think and do originates in your System 1, but System 2 takes over when things get difficult, and it normally has the last word.
+
+*   <b>Conflict Experiment (Stroop Effect variant):</b> Figure 2 (a variant of a classic experiment) produces a conflict between the two systems. You were asked to perform two tasks on columns of words:
+    <i>Your first task is to go down both columns, calling out whether each word is printed in lowercase or in uppercase. When you are done with the first task, go down both columns again, saying whether each word is printed to the left or to the right of center by saying (or whispering to yourself) "LEFT" or "RIGHT."</i>
+
+    When identifying upper/lowercase, the left-hand column (where words like 'LEFT' were left-aligned and uppercase) was easy, but the right-hand column (with misaligned or contradictory words) caused slowing and stammering. When naming position, the left column was difficult, and the right was much easier. This demonstrates a conflict between System 2's intended task (e.g., stating "upper/lower") and System 1's automatic response (e.g., reading the word itself), which interferes and slows you down, requiring System 2 to overcome the competing response.
+
+<br>
+<br>
+
+<b>⚠️ Why it trips you up:</b> Our attention capacity is limited, making us susceptible to "inattentional blindness" when System 2 is fully engaged. System 1, while efficient and generally accurate, has biases and cannot be turned off. This leads to conflicts where automatic responses (like reading a word or having an immediate feeling) interfere with our conscious intentions (System 2 tasks). Overcoming these automatic impulses requires System 2 effort, highlighting that System 2 is responsible for self-control. The efficiency of the dual-system design means System 1's swift, initial reactions are usually accepted, minimizing effort, but also making us prone to its "systematic errors" when situations are ambiguous or require deeper analysis.
+
+<br>
+<br>
+
+<b>🏢 Real-World Example:</b> You're deeply focused on writing an important email (System 2). Your phone buzzes with a notification (System 1 attention grab). If you continue focusing on the email and ignore the buzz, you're demonstrating System 2 overriding System 1's impulse. However, if the email is complex, you might miss someone calling your name in the background, similar to the gorilla experiment. This shows how demanding tasks can make us "deaf" or "blind" to other stimuli, and how System 2 effort is needed for both focused work and self-control.
+
+<br>
+<br>
+
+<b>🛠 The Antidote:</b> "What automatic reactions or information might I be missing or misinterpreting because my attention is heavily engaged elsewhere?"
+
+<br>
+<br>
+
+<b>🤳 Your Turn:</b> Have you ever experienced a "blind spot" in your attention, where you missed something obvious because you were focused on another task? How did you react when you realized what you had missed?

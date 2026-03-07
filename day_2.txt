@@ -1,0 +1,68 @@
+<b>🧠 Concept:</b> The Division of Labor: System 1's Automaticity vs. System 2's Effortful Control
+
+<br>
+<br>
+
+<b>📍 The Core:</b> System 1 automatically generates impressions and intuitions from innate and learned skills, while System 2 steps in for effortful tasks, often monitoring and overriding System 1 when necessary.
+
+<br>
+<br>
+
+<b>🧪 The Case:</b>
+The author adopts terms originally proposed by psychologists Keith Stanovich and Richard West, referring to two systems in the mind:
+*   <i>System 1 operates automatically and quickly, with little or no effort and no sense of voluntary control.</i>
+*   <i>System 2 allocates attention to the effortful mental activities that demand it, including complex computations. The operations of System 2 are often associated with the subjective experience of agency, choice, and concentration.</i>
+
+System 1 is described as <i>effortlessly originating impressions and feelings that are the main sources of the explicit beliefs and deliberate choices of System 2. The automatic operations of System 1 generate surprisingly complex patterns of ideas, but only the slower System 2 can construct thoughts in an orderly series of steps.</i>
+
+Here are some examples of System 1's automatic activities (in rough order of complexity):
+*   <i>Detect that one object is more distant than another.</i>
+*   <i>Orient to the source of a sudden sound.</i>
+*   <i>Complete the phrase "bread and..."</i>
+*   <i>Make a “disgust face” when shown a horrible picture.</i>
+*   <i>Detect hostility in a voice.</i>
+*   <i>Answer to 2 + 2 = ?</i>
+*   <i>Read words on large billboards.</i>
+*   <i>Drive a car on an empty road.</i>
+*   <i>Find a strong move in chess (if you are a chess master).</i>
+*   <i>Understand simple sentences.</i>
+*   <i>Recognize that a “meek and tidy soul with a passion for detail" resembles an occupational stereotype.</i>
+
+These mental events occur automatically and require little or no effort, combining innate skills (like perceiving the world, avoiding losses, fearing spiders) and learned skills (like reading, understanding social nuances, or expert chess moves). Some are completely involuntary (understanding sentences), while others like chewing are automatic but susceptible to voluntary control.
+
+The highly diverse operations of System 2, by contrast, all require attention and are disrupted when attention is drawn away. Here are some examples:
+*   <i>Brace for the starter gun in a race.</i>
+*   <i>Focus attention on the clowns in the circus.</i>
+*   <i>Focus on the voice of a particular person in a crowded and noisy room.</i>
+*   <i>Look for a woman with white hair.</i>
+*   <i>Search memory to identify a surprising sound.</i>
+*   <i>Maintain a faster walking speed than is natural for you.</i>
+*   <i>Monitor the appropriateness of your behavior in a social situation.</i>
+*   <i>Count the occurrences of the letter a in a page of text.</i>
+*   <i>Tell someone your phone number.</i>
+*   <i>Park in a narrow space (for most people except garage attendants).</i>
+*   <i>Compare two washing machines for overall value.</i>
+*   <i>Fill out a tax form.</i>
+*   <i>Check the validity of a complex logical argument.</i>
+
+System 2 can also "program" System 1's automatic functions, for example, by setting yourself to look for a specific person in a crowded train station, or for capital cities starting with 'N'. These deliberate "sets" require continuous exertion of effort.
+
+<br>
+<br>
+
+<b>⚠️ Why it trips you up:</b> The "control of attention is shared by the two systems." While System 1 might automatically orient you to a sudden sound, System 2 then mobilizes voluntary attention. We often <i>feel</i> like we are in control (identifying with System 2), but many of our immediate perceptions, impulses, and actions are initiated by the automatic System 1. The challenge lies in recognizing when System 1's rapid, effortless output needs to be scrutinized or overridden by System 2's more demanding, but potentially more accurate, processes. Our limited "budget of attention" (System 2's resource) means we cannot effectively perform multiple effortful tasks simultaneously, making us susceptible to System 1's automatic responses when System 2 is busy or disengaged.
+
+<br>
+<br>
+
+<b>🏢 Real-World Example:</b> Learning to drive a car initially requires intense System 2 effort: focusing on every detail, conscious steering, pedal control, mirror checks. With practice, driving on an empty road becomes largely a System 1 activity – automatic and effortless, allowing you to converse. However, parking in a narrow space immediately pulls you back into System 2, demanding focused attention and effort, illustrating how tasks shift between systems based on novelty and complexity, and how System 2 gets overwhelmed by multiple complex tasks (e.g., parking while computing).
+
+<br>
+<br>
+
+<b>🛠 The Antidote:</b> "Is my current activity routine enough for System 1, or does it demand System 2's full, undivided attention?"
+
+<br>
+<br>
+
+<b>🤳 Your Turn:</b> Describe a skill you've mastered (like driving, playing an instrument, or a specific work task). How did it feel when you were first learning it (System 2 intensive), and how does it feel now (more System 1 automatic)? What happens when an unexpected challenge arises while performing that mastered skill?
