@@ -34,6 +34,13 @@ jobs:
         run: |
           git config --global user.name 'Study-Bot'
           git config --global user.email 'bot@github.com'
+          
+          # 1. Pull any recent changes from GitHub to stay in sync
+          git pull origin main --rebase
+          
+          # 2. Add and commit the new progress files
           git add progress.txt day_*.txt
-          git commit -m "Update progress [skip ci]" || echo "No changes"
-          git push
+          git commit -m "Update study progress [skip ci]" || echo "No changes to commit"
+          
+          # 3. Push the updates back to GitHub
+          git push origin main
