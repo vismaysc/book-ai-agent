@@ -2,13 +2,15 @@ name: Daily Book Study
 
 on:
   schedule:
-    # 02:30 UTC is 08:00 AM IST
-    - cron: '30 5 * * *'
-  workflow_dispatch: # Allows you to run it manually for testing
+    - cron: '30 5 * * *' # 11:00 AM IST
+  workflow_dispatch: 
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # CRITICAL: Allows GitHub to save your progress
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -19,8 +21,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: |
-          pip install google-genai requests
+        run: pip install google-genai requests
 
       - name: Run Study Agent
         env:
@@ -28,3 +29,11 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: python agent.py
+
+      - name: Save Progress to Repository
+        run: |
+          git config --global user.name 'Study-Bot'
+          git config --global user.email 'bot@github.com'
+          git add progress.txt day_*.txt
+          git commit -m "Update progress [skip ci]" || echo "No changes"
+          git push
