@@ -88,10 +88,10 @@ def prepare_curriculum():
     print(f"✅ Created {len(lessons)} lesson files!")
 
 def send_daily_lesson():
-    """Reads the current day's file and sends it to Telegram."""
-    if not os.path.exists("progress.txt"):
-        print("❌ No curriculum found. Run prepare_curriculum() first.")
-        return
+    # 1. If files are missing, generate them automatically
+    if not os.path.exists("progress.txt") or not os.path.exists("day_1.txt"):
+        print("⚠️ No lessons found. Running AI generation now...")
+        prepare_curriculum()
 
     with open("progress.txt", "r") as f:
         current_day = int(f.read().strip())
@@ -100,32 +100,23 @@ def send_daily_lesson():
 
     if os.path.exists(filename):
         with open(filename, "r", encoding="utf-8") as f:
-            message = f.read()
+            message = f.read().replace("<br>", "\n").replace("<br/>", "\n")
 
-        # Send to Telegram
-        message = message.replace("<br>", "\n").replace("<br/>", "\n").replace("<br />", "\n")
-        # Split message into chunks of 4000 characters to avoid Telegram's limit
+        # 2. Chunking for Telegram's 4096 character limit
         MAX_LENGTH = 4000
         parts = [message[i:i+MAX_LENGTH] for i in range(0, len(message), MAX_LENGTH)]
 
         for part in parts:
             url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
             payload = {"chat_id": CHAT_ID, "text": part, "parse_mode": "HTML"}
-            response = requests.post(url, data=payload)
+            requests.post(url, data=payload)
 
-        if response.status_code == 200:
-            print(f"✅ Day {current_day} sent successfully!")
-            # Update for tomorrow
-            with open("progress.txt", "w") as f:
-                f.write(str(current_day + 1))
-        else:
-            print(f"❌ Failed to send: {response.text}")
+        # 3. Update Progress for tomorrow
+        with open("progress.txt", "w") as f:
+            f.write(str(current_day + 1))
+        print(f"✅ Day {current_day} sent successfully!")
     else:
         print("🏁 All lessons for this chapter have been sent!")
 
 if __name__ == "__main__":
-    # IF RUNNING FOR THE FIRST TIME: Uncomment the line below to process your PDF
-    # prepare_curriculum()
-
-    # FOR DAILY AUTOMATION: This is the function the scheduler will call
     send_daily_lesson()
