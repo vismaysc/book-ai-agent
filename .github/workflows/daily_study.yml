@@ -35,12 +35,17 @@ jobs:
           git config --global user.name 'Study-Bot'
           git config --global user.email 'bot@github.com'
           
-          # 1. Pull any recent changes from GitHub to stay in sync
+          # 1. Temporarily 'hide' the new lesson files so we can pull
+          git add progress.txt day_*.txt
+          git stash
+          
+          # 2. Pull the latest changes from the cloud
           git pull origin main --rebase
           
-          # 2. Add and commit the new progress files
+          # 3. Bring the lesson files back out of hiding
+          git stash pop || echo "No changes to pop"
+          
+          # 4. Commit and push everything for real
           git add progress.txt day_*.txt
           git commit -m "Update study progress [skip ci]" || echo "No changes to commit"
-          
-          # 3. Push the updates back to GitHub
           git push origin main
